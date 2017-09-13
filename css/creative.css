@@ -345,5 +345,7 @@ header.masthead {
 
   .me {
       border-radius: 8px;
+      height: 450px;
+      widht: 300px;
 
   }
